@@ -20,6 +20,20 @@ h2 {
   background-color: #9E918D;
   height: 45px;
 }
+.footer {
+  background-color: #9E918D;
+  font-family: 'Raleway', sans-serif;
+  font-size: 13px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 30px;
+  margin-top: 15px;
+}
+h3{
+  color: #F7F2F1;
+  display: flex;
+  justify-content: flex-end;
+}
 img {
 
   object-fit: cover;
