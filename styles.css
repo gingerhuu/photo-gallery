@@ -242,6 +242,25 @@ img {
   margin-right: 0px;
   width: 32% */
 }
+#image22 {
+  transform: rotate(180deg);
+  /* height: 302.28px;
+  width: 455.67px;
+  object-fit: cover;
+  margin-top: 15px;
+  margin-right: 0px;
+  width: 32% */
+}
+#image24 {
+  transform: rotate(180deg);
+  /* height: 302.28px;
+  width: 455.67px;
+  object-fit: cover;
+  margin-top: 15px;
+  margin-right: 0px;
+  width: 32% */
+}
+
 .row {
   margin-left: 17px;
 }
